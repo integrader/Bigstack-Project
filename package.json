@@ -1,0 +1,21 @@
+{
+  "name": "bigproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stack.js",
+  "scripts": {
+    "start": "node stack.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.4.3",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.1",
+    "validator": "^13.11.0"
+  }
+}
